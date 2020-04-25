@@ -1,0 +1,13 @@
+import java.io.*;
+import java.util.Scanner;
+
+class Lesson_2_Activity_Two
+{
+
+ public static void main (String str[]) throws IOException 
+ {
+ //Use \" to print a " and \n to print a new line.
+ System.out.print("\"I do not fear computers. I fear the lack of them.\"\nIsaac Asimov");
+
+ }
+}
