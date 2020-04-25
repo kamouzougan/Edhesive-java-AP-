@@ -1,0 +1,15 @@
+import java.io.*;
+import java.util.Scanner;
+
+class Lesson_2_Activity_Three
+{
+    public static void main (String str[]) throws IOException 
+    {
+        //Copy the output from the assignment into a print statement 
+        //for each line. Then add \ when needed to print \ characters.
+        System.out.println("   _");
+        System.out.println(" /   \\");
+        System.out.println("|     |");
+        System.out.println(" \\ _ /");
+    }
+}
